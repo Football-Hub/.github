@@ -12,10 +12,6 @@ Sharing workflow templates, secrets, and self-hosted runners.
 | ----------------- |--------------------------------|
 | api-hello-ci      |  Just a Hello Template         |
 
-# Author
-
-Srikanth Mamidela  
-srikanth.mamidela@aplfootball.com.au
 
 # Owner
 
