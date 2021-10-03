@@ -1,7 +1,7 @@
 {
   "name": "APL Organization Hello",
   "description": "APL Hello CI workflow template.",
-  "iconName": "api-hello-ci",
+  "iconName": "apl-hello-ci",
   "categories": [
     "JavaScript"
   ],

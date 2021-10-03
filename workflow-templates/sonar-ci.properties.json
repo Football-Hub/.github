@@ -1,0 +1,17 @@
+{
+  "name": "APL Organization Sonar",
+  "description": "APL Sonar CI workflow template.",
+  "iconName": "sonar-ci",
+  "categories": [
+    "JavaScript",
+    "Java",
+    "Java Properties",
+    "Jinja",
+    "Python",
+    "Common Workflow Language",
+    "HCL"
+  ],
+  "filePatterns": [
+    "*"
+  ]
+}
